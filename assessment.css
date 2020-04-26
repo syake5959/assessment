@@ -1,0 +1,20 @@
+/*学習中*/
+#url {
+    color:white;
+}
+body {
+    background: linear-gradient(90deg,#8848b3,#c76127);/*背景グラデーション　degは角度*/
+    color: #FDFFFF;
+    width: 500px;/*横幅*/
+    margin-right: auto;/*右側のマージンを自動調節にしています　中央寄せ*/
+    margin-left : auto;/*左側のマージンを自動調節にしています　中央寄せ*/
+  }
+button {
+    padding: 5px 20px;/*上下 左右*/
+    background-color: #337AB7;
+    border-style: none; /*none は、境界線を表示しないという意味になります。*/
+    color: white;
+  }
+input{
+      height:20px;/*入力ボックスとボタンの縦の幅を揃えるために微調整*/
+  }
