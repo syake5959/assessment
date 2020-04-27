@@ -1,4 +1,3 @@
-//学習中
 'use strict';//  ←宣言後の記述ミスをエラーとして表示してくれる機能を呼び出すための記述です。
 const userNameInput = document.getElementById('user-name');
 const assessmentButton = document.getElementById('assessment');
